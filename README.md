@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ariugur/prompt-blueprints/main/assets/github_blueprint.png" width="800"/>
+</p>
+
+
+
 # prompt-blueprints  
 Symbolic architectures between language and AI.
 
